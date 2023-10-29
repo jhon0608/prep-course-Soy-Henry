@@ -20,21 +20,21 @@ function suma(x, y) {
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
-   resultado = x - y
+  const resultado = x - y
    return resultado
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
-   resultado = x / y
+    const resultado = x / y
    return resultado
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
-   resultado = x * y
+    const resultado = x * y
    return resultado
 }
 
